@@ -14,7 +14,6 @@ script:
   - docker run --privileged -v ${PWD}:/source --name flatpak -i vrutkovs/flatpak make -C source
   - rm -rf export && mkdir export
   - cp -rf repo/ export/
-  - cp -rf firefox.flatpakref export/
 
 notifications:
   webhooks: https://hubot.vrutkovs.eu/travis-ci/103761953
