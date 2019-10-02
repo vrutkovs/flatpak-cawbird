@@ -45,8 +45,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.10.5.tar.xz",
-          "sha256": "e4d2f315f478d47281fbfdfbd590a63d23704ca37911d7142d5992616f4b28d3"
+          "url": "https://gstreamer.freedesktop.org/src/gst-libav/gst-libav-1.16.1.tar.xz",
+          "sha256": "e8a5748ae9a4a7be9696512182ea9ffa6efe0be9b7976916548e9d4381ca61c4"
         }
       ]
     },
@@ -58,8 +58,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://download.gnome.org/sources/gspell/1.4/gspell-1.4.1.tar.xz",
-          "sha256": "442f88fecd7f9e00a6a9d0af2d762744dd3c119217ff11d6739500f75b0f10be"
+          "url": "https://download.gnome.org/sources/gspell/1.8/gspell-1.8.2.tar.xz",
+          "sha256": "bb9195c3a95bacf556d0203e9691f7489e0d3bc5ae1e5a440c89b2f2435d3ed6"
         }
       ]
     },
