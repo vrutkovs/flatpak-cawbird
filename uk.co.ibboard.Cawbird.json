@@ -51,15 +51,19 @@
       ]
     },
     {
-      "name": "gspell",
+      "name": "enchant",
       "config-opts": [
-        "--enable-vala=yes"
+        "--disable-static",
+        "--with-myspell-dir=/usr/share/hunspell"
+      ],
+      "cleanup": [
+        "/bin"
       ],
       "sources": [
         {
           "type": "archive",
-          "url": "https://download.gnome.org/sources/gspell/1.8/gspell-1.8.2.tar.xz",
-          "sha256": "bb9195c3a95bacf556d0203e9691f7489e0d3bc5ae1e5a440c89b2f2435d3ed6"
+          "url": "https://github.com/AbiWord/enchant/releases/download/enchant-1-6-1/enchant-1.6.1.tar.gz",
+          "sha256": "bef0d9c0fef2e4e8746956b68e4d6c6641f6b85bd2908d91731efb68eba9e3f5"
         }
       ]
     },
