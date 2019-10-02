@@ -69,6 +69,8 @@
     },
     {
       "name": "cawbird",
+      "buildsystem": "meson",
+      "builddir": true,
       "sources": [
         {
           "type": "archive",
