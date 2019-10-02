@@ -87,8 +87,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/IBBoard/cawbird/archive/v1.0.1.tar.gz",
-          "sha256": "da3e7003825e58042322b66c804919320062afde9e67eac2ccb4416f834544f5"
+          "url": "https://github.com/IBBoard/cawbird/archive/870f1272cf87815e7c5fda8ac010e9af2f0161f5.zip",
+          "sha256": "44a5a5f4709c7d1dc963fb5fab67e064ac41fb65772ca86ea6b3d9b45ca30e5f"
         }
       ]
     }
